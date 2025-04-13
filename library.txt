@@ -1,16 +1,46 @@
 [
-    {
-        "title": "bloggers",
-        "author": "zist",
-        "year": 2025,
-        "genre": "it",
-        "read": false
-    },
+    
     {
         "title": "dramatic",
         "author": "bachay",
-        "year": 2030,
+        "year": 2020,
         "genre": "theater",
+        "read": true
+    },
+
+{
+        "title": "The Silent Observer",
+        "author": "John Doe",
+        "year": 2021,
+        "genre": "Mystery",
+        "read": true
+    },
+    {
+        "title": "Tech Revolution",
+        "author": "Jane Smith",
+        "year": 2023,
+        "genre": "Technology",
+        "read": false
+    },
+    {
+        "title": "The Last Voyage",
+        "author": "Samuel Lee",
+        "year": 2020,
+        "genre": "Adventure",
+        "read": true
+    },
+    {
+        "title": "The Great Escape",
+        "author": "Emily White",
+        "year": 2019,
+        "genre": "Thriller",
+        "read": false
+    },
+    {
+        "title": "Poetry of the Soul",
+        "author": "Michael Green",
+        "year": 2022,
+        "genre": "Poetry",
         "read": true
     }
 ]
