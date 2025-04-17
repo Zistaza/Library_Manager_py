@@ -107,13 +107,7 @@ st.markdown("""
     <span style="color:white;">🚀 Built by <strong>Zeenat Yameen</strong> | 📚 Personal Library Manager</span>
 </div>
 """, unsafe_allow_html=True)
-How to Run
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/YOUR_USERNAME/Personal-Library-Manager.git
 Install the required dependencies:
 
 bash
